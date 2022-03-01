@@ -1780,8 +1780,11 @@ button {
       padding-right: var(--con)
   }
 }
-.header-test_quest {
-  padding: 20px 0;
+.header-test-quest {
+  padding: 10px 0 0 0;
+}
+.header-test {
+  padding: 40px 0;
 }
 .login-block__text {
   padding: 90px 15px 20px
@@ -1952,7 +1955,7 @@ button {
 }
 
 .quest__header {
-  margin-bottom: 90px;
+  margin-bottom: 60px;
   position: relative;
 }
 .quest__variants_row {
@@ -1969,13 +1972,13 @@ button {
   justify-content: flex-end;
   padding: 0;
   width: 551px;
-  height: 360px;
+  height: 330px;
   background: rgba(196, 196, 196, 0.1);
   color: #fff;
   font-size: 20px;
   z-index: 1;
   margin-right: 30px;
-  padding-top: 40px;
+  padding-top: 30px;
   border: 8px solid transparent;
   z-index: 6;
   cursor: pointer;
@@ -2016,7 +2019,7 @@ button {
   box-shadow: 0px 0px 33px rgba(87, 245, 255, 0.33);
 }
 .quest-block__picture {
-  margin-top: 60px;
+  margin-top: 50px;
 }
 .quest__header::after {
   content: '';
