@@ -1781,7 +1781,7 @@ button {
   }
 }
 .header-test_quest {
-  padding: 40px 0 100px 0;
+  padding: 20px 0;
 }
 .login-block__text {
   padding: 90px 15px 20px
@@ -1969,13 +1969,13 @@ button {
   justify-content: flex-end;
   padding: 0;
   width: 551px;
-  height: 383px;
+  height: 360px;
   background: rgba(196, 196, 196, 0.1);
   color: #fff;
   font-size: 20px;
   z-index: 1;
   margin-right: 30px;
-  padding-top: 60px;
+  padding-top: 40px;
   border: 8px solid transparent;
   z-index: 6;
   cursor: pointer;
@@ -2765,24 +2765,24 @@ button {
     line-height: 60px;
     text-transform: uppercase;
     max-width: 500px;
-    margin: 50px 0 30px 0;
+    margin: 0 0 20px 0;
 }
 .price-con__subtitle {
   color: #F82323;
   font-size: 20px;
   text-transform: uppercase;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 .price-con__descr {
   font-size: 24px;
-  line-height: 34px;
-  margin-bottom: 30px;
+  line-height: 26px;
+  margin-bottom: 15px;
 }
 .price-texts {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
-  margin-bottom: 35px;
+  margin-bottom: 20px;
 }
 .price-con__info {
   width: 48%;
@@ -2793,7 +2793,7 @@ button {
 .price__head_test {
   font-size: 18px;
   line-height: 26px;
-  margin-bottom: 40px;
+  margin-bottom: 25px;
 }
 .price__wrap {
   display: flex;
@@ -2805,7 +2805,7 @@ button {
 .test-price {
   z-index: 6;
   position: absolute;
-  bottom: 130px;
+  bottom: 280px;
   right: 0;
   padding: 35px 150px 60px 60px;
   background: rgba(0, 0, 0, 0.4);
